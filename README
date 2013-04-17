@@ -1,0 +1,8 @@
+This is a project to rewrite a few tools that is used in Linux.
+
+Such as:
+	ls
+	grep
+	cat
+	ifconfig
+	...
